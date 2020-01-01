@@ -1,0 +1,13 @@
+create(copy con) : membuat file
+misal
+C:/User/ALFIAN/2197200871/Pertemuan ke 1>copy con ringkasan 1
+1^z
+semisal mau dibatalkan (^c)
+kalo mau dihapus (^x)
+
+Untuk membuat batch(BAT)
+Misal
+C:/User/ALFIAN/2197200871/Pertemuan ke 1>copy con create-dir.bat
+md data data\folder1 data\folder2 data\folder3
+cls^z
+C:/User/ALFIAN/2197200871/Pertemuan ke 1>copy con create-dir.bat

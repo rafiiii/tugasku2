@@ -1,0 +1,19 @@
+
+TUGAS MEMBUAT BATCH YANG BERISI
+
+-Program_Shutdown.bat
+-program_Restart.bat
+-about.txt(Alfian 2197200871)
+
+
+1. Membuat file dilokasi desktop
+(C:\users\"lenovo 20-30"\Desktop>echo> "ALFIAN RAFI PRATAMA".BAT)
+
+2. Kemudian buat script didalam file " ALFIAN RAFI PRATAMA"
+MD C:\Users\"Lenovo 20-30"\Desktop\"ALFIAN RAFI PRATAMA">
+
+echo C:\Windows\System32\Shutdown.exe /s>C:\Users\"Lenovo 20-30"\Desktop\"ALFIAN RAFI PRATAMA"\Program_Shutdown.bat
+
+echo C:\Windows\System32\Shutdown.exe /r>C:\Users\"Lenovo 20-30"\Desktop\"ALFIAN RAFI PRATAMA"\Program_Restart.bat
+
+echo Alfian 2197200871> C:\Users\"Lenovo 20-30"\Desktop\"ALFIAN RAFI PRATAMA"\About.txt
